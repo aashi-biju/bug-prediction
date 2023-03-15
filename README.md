@@ -2,7 +2,7 @@
 This website can be used to predict if there is a defect in the code of a software by providing necessary variables.
 
 ## How to run the app
-You just need to visit " https://stan-2939-bug-prediction-app-d0neos.streamlit.app/ " to reach the application
+You just need to visit "[ https://stan-2939-bug-prediction-app-d0neos.streamlit.app/](https://aashi-biju-bug-prediction-app-bdkkjz.streamlit.app/) " to reach the application
 
 ## How to predict
 1. Go to the prediction tab in the left pane
